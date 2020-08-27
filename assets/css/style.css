@@ -15,6 +15,9 @@ body{
     font-size: 18px;
     margin: 11px;
     color: #7F7F7F;
+    width: 50%;
+    margin: 0 auto;
+    line-height: 30px;
 }
 .price-slider-up span {
     color: #26A65B;
