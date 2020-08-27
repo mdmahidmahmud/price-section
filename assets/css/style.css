@@ -55,6 +55,11 @@ body{
     border: 1px solid #64C08A;
     margin-bottom: 28px;
     cursor: pointer;
+    background: transparent;
+}
+.botom-area .btn:hover{
+    background-color: #64C08A;
+    color:#fff;
 }
 .botom-area h1 {
     font-size: 25px;
